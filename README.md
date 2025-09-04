@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @jicolani
-- Certified hustler
-- Day trader by day, day trader by night
-- Enrol in my course
 
 
 <!---
